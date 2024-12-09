@@ -1,7 +1,10 @@
 # Project-Analysis-cyse-130-
 Project overview: The CyberSecuritySystem is a comprehensive variety of scripts designed for monitoring network traffic, running vulnerability scans and analyzing security data. It uses tools like Scapy for network monitoring and Nmap with OpenVAS for vulnerability scanning aswell as it integrates various checks to ensure system security. The goal of this system is to automate routine security checks, monitor network traffic for anomalies and detect potential vulnerabilities in the system, that way it saves alot of time for the user.
 
-Installation:
+Installation: 
+1) Download files
+2) open them in VS code
+3) Run the files 
 
 
 Instructions for running the code
