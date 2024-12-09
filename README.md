@@ -5,7 +5,7 @@ Installation:
 
 
 Instructions for running the code
-1) clone the repository: git clone https://github.com/omar99yes/ProjectAnalysiscyse130.git cd ProjectAnalysiscyse130
+1) clone the repository: git clone (https://github.com/omar99yes/Project-Analysis-cyse-130-) cd ProjectAnalysiscyse130
 2) This project requires Python and several libraries. Install the required dependencies: pip install -r scripts/requirements.txt.
 3) Ensure Nmap and OpenVAS are installed: sudo apt install nmap, and sudo apt install openvas
 TO RUN THE SCRIPT IN THE REPOSITORY:
